@@ -13,5 +13,3 @@
 | [Miki Lustig](https://scholar.google.com/citations?user=EWY1qlkAAAAJ) | MRI | http://people.eecs.berkeley.edu/~mlustig/ | UC Berkeley |
 | [Martin Uecker](https://scholar.google.com/citations?user=r7BG-ZYAAAAJ) | MRI | https://wwwuser.gwdg.de/~muecker1/ | University Medical Center Göttingen |
 | [Ulugbek S. Kamilov](https://scholar.google.com/citations?user=3qYUSDwAAAAJ) | Computational Imaging | https://cigroup.wustl.edu/ | Washigton University in St.Lousis |
-
-https://pubmed.ncbi.nlm.nih.gov/rss/search/1dug0iwjb-lVIymBduAn9Q7dmQ1DSiu587c0s1jL3AEBLyhg6g/?limit=20&utm_campaign=pubmed-2&fc=20230307124913
